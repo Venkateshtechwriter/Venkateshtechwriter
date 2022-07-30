@@ -1,2 +1,4 @@
 # What is Cyber security ?
-Today, every aspect of our life involves the use of technology. Revolution in information and communication technologies 
+Cybersecurity is a set of processes, tools and frameworks to protect networks, devices, programs and data from cyberattacks. Cybercriminals launch such attacks to gain unauthorized access to IT systems, interrupt business operations, modify, manipulate or steal data, engage in corporate espionage, or extort money from victims. Cyberattacks now affect one in three Americans every year, with one attack taking place every 39 seconds. These attacks often cause financial or reputational damage, harm IT infrastructure, and result in regulatory fines. To protect their valuable assets and data from attackers, organizations and individuals need strong cybersecurity.
+# Importance of cyber security
+The importance of cyber security comes down to the desire to keep information, data, and devices private and safe. In today’s world, people store vast quantities of data on computers and other internet-connected devices. Much of which is sensitive, such as passwords or financial data.
